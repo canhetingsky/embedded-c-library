@@ -1,6 +1,6 @@
 # embedded-c-library
 
-![chinese](images\chinese.svg)
+![chinese](images/chinese.svg)
 
 > 来自GitHub的通用嵌入式C语言库推荐
 
@@ -35,6 +35,4 @@
 
 5. [RingBuff](https://mp.weixin.qq.com/s?__biz=MzI4NTQ4NTA3NA==&mid=2247486746&idx=1&sn=e09a4c06291bb641caddaebc59dc2648&chksm=ebea3c67dc9db571ebafde83b7725af84432d2bbb591044a6e60f5cd9d84db0a6164cf993bf1&mpshare=1&scene=1&srcid=0603al1BgU9nTEeoxOULtZL2#rd)：环形缓冲区
 
-   ​
 
-   ​
