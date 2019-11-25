@@ -1,0 +1,12 @@
+[submodule "EasyLogger"]
+	path = EasyLogger
+	url = https://github.com/armink/EasyLogger
+[submodule "EasyFlash"]
+	path = EasyFlash
+	url = https://github.com/armink/EasyFlash
+[submodule "MultiTimer"]
+	path = MultiTimer
+	url = https://github.com/0x1abin/MultiTimer
+[submodule "MultiButton"]
+	path = MultiButton
+	url = https://github.com/0x1abin/MultiButton
