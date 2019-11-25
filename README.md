@@ -4,12 +4,12 @@
 
 > 来自GitHub的通用嵌入式C语言库推荐
 
-1. MultiTimer    [**原地址**](https://github.com/0x1abin/MultiTimer)    [**备用地址**](\MultiTimer)
+1. [**MultiTimer**](https://github.com/0x1abin/MultiTimer)
 
    **简介**：MultiTimer 是一个软件定时器扩展模块，可无限扩展你所需的定时器任务，取代传统的标志位判断方式， 更优雅更便捷地管理程序的时间触发时序。
 
 
-2. MultiButton    [**原地址**](https://github.com/0x1abin/MultiButton)    [**备用地址**](\MultiButton)
+2. [**MultiButton**](https://github.com/0x1abin/MultiButton)
 
    **简介**：MultiButton 是一个小巧简单易用的事件驱动型按键驱动模块，可无限量扩展按键，按键事件的回调异步处理方式可以简化你的程序结构，去除冗余的按键处理硬编码，让你的按键业务逻辑更清晰。
 
@@ -33,6 +33,6 @@
 
    **简介**：EasyLogger 是一款超轻量级(ROM<1.6K, RAM<0.3K)、高性能的 C/C++ 日志库，非常适合对资源敏感的软件项目，例如： IoT 产品、可穿戴设备、智能家居等等。相比 log4c、zlog 这些知名的 C/C++ 日志库， EasyLogger 的功能更加简单，提供给用户的接口更少，但上手会很快，更多实用功能支持以插件形式进行动态扩展。
 
-5. [RingBuff](https://mp.weixin.qq.com/s?__biz=MzI4NTQ4NTA3NA==&mid=2247486746&idx=1&sn=e09a4c06291bb641caddaebc59dc2648&chksm=ebea3c67dc9db571ebafde83b7725af84432d2bbb591044a6e60f5cd9d84db0a6164cf993bf1&mpshare=1&scene=1&srcid=0603al1BgU9nTEeoxOULtZL2#rd)：环形缓冲区
+> 嵌入式C语言库
 
-
+1. [RingBuff](https://mp.weixin.qq.com/s?__biz=MzI4NTQ4NTA3NA==&mid=2247486746&idx=1&sn=e09a4c06291bb641caddaebc59dc2648&chksm=ebea3c67dc9db571ebafde83b7725af84432d2bbb591044a6e60f5cd9d84db0a6164cf993bf1&mpshare=1&scene=1&srcid=0603al1BgU9nTEeoxOULtZL2#rd)：环形缓冲区
