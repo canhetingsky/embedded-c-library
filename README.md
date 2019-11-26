@@ -36,3 +36,5 @@
 > 嵌入式C语言库
 
 1. [RingBuff](https://mp.weixin.qq.com/s?__biz=MzI4NTQ4NTA3NA==&mid=2247486746&idx=1&sn=e09a4c06291bb641caddaebc59dc2648&chksm=ebea3c67dc9db571ebafde83b7725af84432d2bbb591044a6e60f5cd9d84db0a6164cf993bf1&mpshare=1&scene=1&srcid=0603al1BgU9nTEeoxOULtZL2#rd)：环形缓冲区
+
+2. [树](https://mp.weixin.qq.com/s?__biz=MzA5NTM3MjIxMw==&mid=2247486244&idx=1&sn=07218a8fef82f7f380c86616830ba1cb&chksm=90411dfea73694e8bfed54a9f758954dbfb643f4ffc0e4d76973b32eaf34f1e72f777d227c58&mpshare=1&scene=1&srcid=&sharer_sharetime=1574211473258&sharer_shareid=6a0237dde8951b0526d81bf5a88decaf#rd)：C语言实现树
