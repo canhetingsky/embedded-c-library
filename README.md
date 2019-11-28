@@ -2,6 +2,13 @@
 
 ![chinese](images/chinese.svg)
 
+## 开始使用
+1. `git clone https://github.com/canhetingsky/embedded-c-library`
+2. `cd embedded-c-library`
+3. `git submodule init`
+
+## 文件说明
+
 > 来自GitHub的通用嵌入式C语言库推荐
 
 1. [**MultiTimer**](https://github.com/0x1abin/MultiTimer)
@@ -38,3 +45,5 @@
 1. [RingBuff](https://mp.weixin.qq.com/s?__biz=MzI4NTQ4NTA3NA==&mid=2247486746&idx=1&sn=e09a4c06291bb641caddaebc59dc2648&chksm=ebea3c67dc9db571ebafde83b7725af84432d2bbb591044a6e60f5cd9d84db0a6164cf993bf1&mpshare=1&scene=1&srcid=0603al1BgU9nTEeoxOULtZL2#rd)：环形缓冲区
 
 2. [树](https://mp.weixin.qq.com/s?__biz=MzA5NTM3MjIxMw==&mid=2247486244&idx=1&sn=07218a8fef82f7f380c86616830ba1cb&chksm=90411dfea73694e8bfed54a9f758954dbfb643f4ffc0e4d76973b32eaf34f1e72f777d227c58&mpshare=1&scene=1&srcid=&sharer_sharetime=1574211473258&sharer_shareid=6a0237dde8951b0526d81bf5a88decaf#rd)：C语言实现树
+
+3. [链表](https://mp.weixin.qq.com/s?__biz=MzA5NTM3MjIxMw==&mid=2247486319&idx=1&sn=50a938de3a0545a96563a070c8eb2dc8&chksm=90411db5a73694a32407e11fb3aa63338fd15013324a5f457c1729d6c1b32d32fd5e8d7b8a68&mpshare=1&scene=1&srcid=&sharer_sharetime=1574922515157&sharer_shareid=6a0237dde8951b0526d81bf5a88decaf&key=6fc7bd086809266be40985417ea8a2c530ac5596960f1b6bf203596136ce6699fd9bfb3f6f18456e6853574c851e14b1e904d8f7102f4d8571e2889a53c1bbc65c8a2fe118788be741a0808cc2d0b88a&ascene=1&uin=MTEwODMzMzE2NA%3D%3D&devicetype=Windows+7&version=62070158&lang=zh_CN&pass_ticket=vUhgYLAvXWaQCf4n1lYhM0PHWlCfCje4I9bgpTwIJsc%2FYo6Y9b1i8vrDdGgGXCzX)：C语言，链表
