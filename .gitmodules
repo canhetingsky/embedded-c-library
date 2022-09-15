@@ -10,3 +10,6 @@
 [submodule "MultiButton"]
 	path = MultiButton
 	url = https://github.com/0x1abin/MultiButton
+[submodule "FlashDB"]
+	path = FlashDB
+	url = https://github.com/armink/FlashDB
