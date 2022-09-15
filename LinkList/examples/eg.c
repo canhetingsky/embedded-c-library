@@ -22,7 +22,7 @@ int main(int argc, char const *argv[])
             {
                 node = linklist->head;
             }
-            //lx,ly from linklist
+            // lx,ly from linklist
             break;
 
         default:
